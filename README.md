@@ -7,7 +7,7 @@ Maker Media GmbH
 
 # Transistor-Tricks
 
-**Ungewöhnliche Transistor-Schaltungen in Make 1/23 S. 94**
+**Ungewöhnliche Transistor-Schaltungen, Make 1/23 S. 94**
 
 von Carsten Meyer
 
