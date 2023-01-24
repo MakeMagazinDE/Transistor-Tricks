@@ -13,4 +13,4 @@ von Carsten Meyer
 
 Vom Schmitt-Trigger zum Stromspiegel, von der Kaskode zur Konstantstromquelle: Mit Transistoren kann man viel mehr machen als nur verstärken und schalten. Wir zeigen einige Grundschaltungen, die nicht jeder kennt.
 
-**Hinweis:** Zur Simulation der Beispiel-Schaltungen (trans_xxx.asc) benötigen Sie das kostenlose Programm [LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) von Analog Devices. Die Auf dem Avalanche-Effekt basierenden Schaltungen "Blinker" und "Pulsgenerator" lassen sich hiermit **nicht** simulieren.
+**Hinweis:** Zur Simulation der Beispiel-Schaltungen (trans_xxx.asc) benötigen Sie das kostenlose Programm [LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) von Analog Devices. Die auf dem Avalanche-Effekt basierenden Schaltungen "Blinker" und "Pulsgenerator" lassen sich hiermit **nicht** simulieren.
